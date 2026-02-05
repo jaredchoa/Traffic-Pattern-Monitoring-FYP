@@ -1,0 +1,24 @@
+# Data
+dataset/
+data/raw/
+data/processed/
+*.csv
+*.jpg
+*.png
+
+# Models
+models/*.pt
+models/*.pth
+
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
